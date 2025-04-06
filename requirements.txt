@@ -1,0 +1,10 @@
+pyautogui
+opencv-python
+numpy
+
+torch
+torchvision
+matplotlib
+
+easyocr
+mss
